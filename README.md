@@ -1,3 +1,11 @@
+https://github.com/Thinkful-Ed/starter-react-redux
+
+https://github.com/Thinkful-Ed/starter-react-redux/tree/complete
+
+https://github.com/j-wee/starter-react-redux
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
